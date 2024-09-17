@@ -84,7 +84,7 @@
     const textOverlay = document.getElementById("textOverlay");
 
     // Cargar imágenes y nombres desde el archivo JSON
-    fetch('./data/imagenes.json')
+    fetch('./public/data/imagenes.json')
       .then(response => response.json())
       .then(data => {
         const images = data;

@@ -2,37 +2,37 @@
     {
       "id": 1,
       "nombre": "One Piece",
-      "src": "./images/animes/img01-One piece.webp"
+      "src": "./public/images/animes/img01-One piece.webp"
     },
     {
       "id": 2,
       "nombre": "Naruto",
-      "src": "./images/animes/img02-Naruto.webp"
+      "src": "./public/images/animes/img02-Naruto.webp"
     },
     {
       "id": 3,
       "nombre": "Dragon Ball Z",
-      "src": "./images/animes/img03-Dragon Ball Z.webp"
+      "src": "./public/images/animes/img03-Dragon Ball Z.webp"
     },
     {
       "id": 4,
       "nombre": "Attack on Titan",
-      "src": "./images/animes/img04-Attack on Titan.webp"
+      "src": "./public/images/animes/img04-Attack on Titan.webp"
     },
     {
       "id": 5,
       "nombre": "Demon Slayer",
-      "src": "./images/animes/img05-Demon Slayer.webp"
+      "src": "./public/images/animes/img05-Demon Slayer.webp"
     },
     {
       "id": 6,
       "nombre": "My Hero Academia",
-      "src": "./images/animes/img06-My Hero Academia.webp"
+      "src": "./public/images/animes/img06-My Hero Academia.webp"
     },
     {
       "id": 7,
       "nombre": "Fullmetal Alchemist",
-      "src": "./images/animes/img07-Fullmetal Alchemist.webp"
+      "src": "./public/images/animes/img07-Fullmetal Alchemist.webp"
     },
     {
       "id": 8,
@@ -42,11 +42,11 @@
     {
       "id": 9,
       "nombre": "Fairy Tail",
-      "src": "./images/animes/img09-Fairy Tail.webp"
+      "src": "./public/images/animes/img09-Fairy Tail.webp"
     },
     {
       "id": 10,
       "nombre": "Hunter x Hunter",
-      "src": "./images/animes/img10-Hunter x Hunter.webp"
+      "src": "./public/images/animes/img10-Hunter x Hunter.webp"
     }
 ]
