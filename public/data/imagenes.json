@@ -2,12 +2,12 @@
     {
       "id": 1,
       "nombre": "One Piece",
-      "src": "./public/images/animes/img01-One piece.webp"
+      "src": "/public/images/animes/img01-One piece.webp"
     },
     {
       "id": 2,
       "nombre": "Naruto",
-      "src": "./public/images/animes/img02-Naruto.webp"
+      "src": "/public/images/animes/img02-Naruto.webp"
     },
     {
       "id": 3,

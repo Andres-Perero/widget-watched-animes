@@ -84,7 +84,7 @@
     const textOverlay = document.getElementById("textOverlay");
 
     // Cargar imágenes y nombres desde el archivo JSON
-    fetch('./public/data/imagenes.json')
+    fetch('/public/data/imagenes.json')
       .then(response => response.json())
       .then(data => {
         const images = data;
@@ -110,7 +110,7 @@
         imageElement.src = images[0].src;
         textOverlay.textContent = images[0].nombre;
 
-        setInterval(changeImage, 6000); // Cambia cada 5 segundos
+        setInterval(changeImage, 5000); // Cambia cada 5 segundos
       })
       .catch(error => console.error('Error cargando el archivo JSON:', error));
   </script>
