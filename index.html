@@ -72,7 +72,7 @@
 
   <div id="imageContainer">
     <div id="flipCard" class="flip-card">
-      <img id="currentImage" src="default-placeholder.png" alt="Imagen Slideshow">
+      <img id="currentImage" src="/images/animes/default-placeholder.webp" alt="Imagen Slideshow">
       <div id="textOverlay" class="back">Cargando...</div>
     </div>
   </div>
@@ -84,7 +84,7 @@
     const textOverlay = document.getElementById("textOverlay");
 
     // Cargar imágenes y nombres desde el archivo JSON
-    fetch('/public/data/imagenes.json')
+    fetch('/data/imagenes.json')
       .then(response => response.json())
       .then(data => {
         const images = data;
